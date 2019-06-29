@@ -36,4 +36,6 @@ Not Work:
 6. Etc
 
 How to use:
-Just replace the clover folder in /EFI/Clover
+Just replace the clover folder in /EFI/Clover using this CLOVER folder
+
+Tested on : Mojave 10.14.5
